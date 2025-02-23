@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/03 04:03:37.000.949,=C:\Users\valfa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/02 13:45:41.000.465,=C:\Users\valfa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/02 13:49:44.000.082,D:\Desenvolvimento\Fontes\AvanttiFormasPagamento\UFrmFormaPag.pas=C:\Users\valfa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/02 13:49:44.000.082,D:\Desenvolvimento\Fontes\AvanttiFormasPagamento\UFrmFormaPag.dfm=C:\Users\valfa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/02 13:50:00.000.172,D:\Desenvolvimento\Fontes\AvanttiFormasPagamento\FormasPagamento.dproj=C:\Users\valfa\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/11/02 13:50:42.000.697,=D:\Desenvolvimento\Fontes\Avantti_Uteis\UFuncoes.pas</Transaction>
+    <Transaction>2024/11/02 13:51:04.000.193,=D:\Desenvolvimento\Fontes\Avantti_Conexao\UDM.pas</Transaction>
+    <Transaction>2024/11/02 18:42:07.000.569,D:\Desenvolvimento\Fontes\Avantti_Conexao\UDM.pas=</Transaction>
+    <Transaction>2024/11/02 18:42:22.000.857,=D:\Desenvolvimento\Fontes\Avantti_Conexao\UDM.pas</Transaction>
+    <Transaction>2025/02/14 19:15:18.000.549,=D:\Desenvolvimento\Fontes\Avantti_Uteis\UEnumsPermissoes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
